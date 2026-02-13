@@ -80,5 +80,5 @@ Feel free to fork the project and raise a PR if you’d like to add features or 
 📜 License
 This project is licensed under the MIT License.
 
-👤 Author
-Chirag
+
+
